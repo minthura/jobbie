@@ -20,6 +20,7 @@ ThemeData theme() {
 
 TextTheme textTheme() {
   return TextTheme(
+    headline4: TextStyle(color: kTextColor),
     bodyText1: TextStyle(color: kTextColor),
     bodyText2: TextStyle(color: kTextColor),
     subtitle1: TextStyle(color: kTextColor.withOpacity(0.6)),
