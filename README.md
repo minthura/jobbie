@@ -1,16 +1,11 @@
-# jobbie
+# Jobbie [DEMO]
 
-A new Flutter project.
+A Flutter app of searching and applying jobs. This is a demo project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Clone this repository in your local machine and run "flutter get". Then you are ready to go.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="./flutter_01.png" width="300"> <img src="./flutter_03.png" width="300"> <img src="./flutter_04.png" width="300"> <img src="./flutter_05.png" width="300"> <img src="./flutter_06.png" width="300">
