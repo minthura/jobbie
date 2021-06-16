@@ -4,7 +4,7 @@ A Flutter app of searching and applying jobs. This is a demo project.
 
 ## Getting Started
 
-Clone this repository in your local machine and run "flutter get". Then you are ready to go.
+Clone this repository in your local machine and run "flutter pub get". Then you are ready to go.
 
 ## Screenshots
 
